@@ -1,5 +1,7 @@
 #include <FastLED.h>
 
+
+
 // How many leds in your strip?
 #define NUM_LEDS 285
 #define MIM_LEDS 205
